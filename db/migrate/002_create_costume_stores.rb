@@ -1,4 +1,4 @@
-class CreateCostumeStores << ActiveRecord::Migration
+class CreateCostumeStores < ActiveRecord::Migration
   def change
   end
 end
